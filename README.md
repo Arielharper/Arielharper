@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Arielharper
+- 👋 Hi, I’m @Arielharper trabalho pequenos projetos de automação  e criação de sites.
