@@ -16,5 +16,3 @@
   <img align="center" alt="DialogFlow" height="30" width="60" src="https://user-images.githubusercontent.com/85683144/216518496-039957da-755b-468e-9a8e-f99c6fa4c05c.png">
 
 </div>
-
-![Snake animation](https://github.com/Arielharper/Arielharper/blob/output/github-contribution-grid-snake.svg)
