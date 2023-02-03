@@ -3,7 +3,7 @@
 - 🛄Atualmente trabalhando com Wordpress e DialogFlow<br>
 - 🔍Estudando Java e Python
   
- </div>
+ </div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arielharper&show_icons=true)
 
