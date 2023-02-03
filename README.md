@@ -1,2 +1,5 @@
-- 👋 Hi, I’m @Arielharper trabalho pequenos projetos de automação  e criação de sites.
-Colaborador do Departamento de Computação  e no Nucleo  de Ensino a Distancia, Ambos no Instituto federal de Mato Grosso
+Olá !! Eu sou Ariel Harper
+- 🛄Atualmente trabalhando com Wordpress e DialogFlow
+- 🔍Estudando Java e Python
+
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
